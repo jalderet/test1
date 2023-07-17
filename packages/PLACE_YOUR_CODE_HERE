@@ -1,1 +1,2 @@
-# INTENTIONALLY LEFT BLANK
+message = "\nHello World!\n"
+print(message)
